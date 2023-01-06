@@ -163,7 +163,6 @@ section {
 
 .product__image {
     margin: -5em 0 0 0; 
-    
 }
 
 .product__title {
@@ -206,12 +205,6 @@ section {
         float: right;
         width: 65%;
         shape-outside: url(../img/shoe-1.png);
-        /* shape-margin: 1em ; */
         margin: 0 -5em 0 0;
     }
-
-    /* .shoe-white .product__image{
-        float: left;
-        shape-outside: url(../img/shoe-2.png);
-    } */
 }
